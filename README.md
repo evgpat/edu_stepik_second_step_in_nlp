@@ -1,4 +1,4 @@
-# Курс "Second step in NLP"
+# Курс "Second Step in NLP"
 
 Материалы к курсу [Second Step in NLP](https://stepik.org/course/133963/).
 
